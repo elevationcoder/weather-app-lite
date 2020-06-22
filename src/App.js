@@ -92,7 +92,7 @@ function App() {
               <div className="humid">
                 <label className="humid-label">Humidity</label>
                 <br />
-                {Math.round(weather.main.humidity)}
+                {Math.round(weather.main.humidity)}%
               </div>
             </div>
           </div>
