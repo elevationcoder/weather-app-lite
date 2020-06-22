@@ -48,8 +48,8 @@ function App() {
         </div>
         <div className="weather-box">
           <div className="temp">78° F</div>
+          <div className="weather">Sunny</div>
         </div>
-        <div className="weather">Sunny</div>
       </main>
     </div>
   );
